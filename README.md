@@ -1,4 +1,4 @@
-# Recognising-Hand-Gestures# Hand Gesture Recognition Using Deep Learning
+# Recognising Hand Gesture Recognition Using Deep Learning
 
 ## Overview
 
